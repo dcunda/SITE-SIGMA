@@ -1,3 +1,1 @@
-# SITE-SIGMA NFT
-
-Projeto colegio
+# SITE-SIGMA
